@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BMI-Reactulator/static/css/main.4aa7297b.css",
+    "main.js": "/BMI-Reactulator/static/js/main.ca3ab48c.js",
+    "static/js/787.b66bb0ca.chunk.js": "/BMI-Reactulator/static/js/787.b66bb0ca.chunk.js",
+    "index.html": "/BMI-Reactulator/index.html",
+    "main.4aa7297b.css.map": "/BMI-Reactulator/static/css/main.4aa7297b.css.map",
+    "main.ca3ab48c.js.map": "/BMI-Reactulator/static/js/main.ca3ab48c.js.map",
+    "787.b66bb0ca.chunk.js.map": "/BMI-Reactulator/static/js/787.b66bb0ca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4aa7297b.css",
+    "static/js/main.ca3ab48c.js"
+  ]
+}
